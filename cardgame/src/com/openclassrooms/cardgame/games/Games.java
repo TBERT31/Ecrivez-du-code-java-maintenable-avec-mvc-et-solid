@@ -5,8 +5,8 @@ import com.openclassrooms.cardgame.model.Deck;
 import com.openclassrooms.cardgame.view.View;
 
 public class Games {
-    public static void main(String[] args) {
-        GameController gc = new GameController(new Deck(), new View());
+    public static void main(String[] args){
+        GameController gc = new GameController(new Deck(), new View(), new HighCardGameEvaluator());
         gc.run();
     }
 }

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c76a4c-da47-4189-9dff-ef9662b1d242" name="Changes" comment="" />
+    <list default="true" id="03c76a4c-da47-4189-9dff-ef9662b1d242" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/HighCardGameEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/LowCardGameEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/GameEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/GameEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/Games.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709211390248</updated>
       <workItem from="1709211391391" duration="9946000" />
-      <workItem from="1709384465238" duration="552000" />
+      <workItem from="1709384465238" duration="2249000" />
     </task>
     <servers />
   </component>
