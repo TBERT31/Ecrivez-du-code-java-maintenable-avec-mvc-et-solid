@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03c76a4c-da47-4189-9dff-ef9662b1d242" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/view/GameSwingView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/view/GameViewable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/view/CommandLineView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,20 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Games.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Games.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709211390248</updated>
       <workItem from="1709211391391" duration="9946000" />
-      <workItem from="1709384465238" duration="2990000" />
+      <workItem from="1709384465238" duration="4921000" />
     </task>
     <servers />
   </component>
