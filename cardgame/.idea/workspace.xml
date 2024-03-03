@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03c76a4c-da47-4189-9dff-ef9662b1d242" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/DeckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/NormalDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/SmallDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/TestDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/IPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/view/GameViewables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/GameEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/GameEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/HighCardGameEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/HighCardGameEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/LowCardGameEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/games/LowCardGameEvaluator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/DeckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/DeckFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/NormalDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/NormalDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/SmallDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/SmallDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/TestDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openclassrooms/cardgame/model/TestDeck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -69,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709211390248</updated>
       <workItem from="1709211391391" duration="9946000" />
-      <workItem from="1709384465238" duration="6776000" />
+      <workItem from="1709384465238" duration="7945000" />
     </task>
     <servers />
   </component>

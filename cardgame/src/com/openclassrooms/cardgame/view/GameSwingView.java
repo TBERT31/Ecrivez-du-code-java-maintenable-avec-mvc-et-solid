@@ -2,6 +2,7 @@ package com.openclassrooms.cardgame.view;
 
 import java.awt.Component;
 import java.awt.Container;
+import java.awt.event.WindowEvent;
 
 import javax.swing.BoxLayout;
 import javax.swing.JComponent;
@@ -112,6 +113,7 @@ public class GameSwingView implements GameViewable {
         int newGame = JOptionPane.showConfirmDialog(frame, "Play again ?", "Play again", JOptionPane.YES_NO_OPTION);
         controller.nextAction(newGame == JOptionPane.NO_OPTION ? "+q" : "");
     }
+
 
 
 }

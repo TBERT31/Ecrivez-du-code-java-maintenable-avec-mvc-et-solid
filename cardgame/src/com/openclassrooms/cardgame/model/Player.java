@@ -1,11 +1,8 @@
 package com.openclassrooms.cardgame.model;
 
-import java.util.List;
-
-public class Player {
+public class Player implements IPlayer {
     private String name;
     private Hand hand;
-
 
     public Player(String name) {
         this.name = name;
@@ -27,5 +24,4 @@ public class Player {
     public String getName() {
         return name;
     }
-
 }
